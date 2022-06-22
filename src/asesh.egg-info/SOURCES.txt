@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+src/asesh.egg-info/PKG-INFO
+src/asesh.egg-info/SOURCES.txt
+src/asesh.egg-info/dependency_links.txt
+src/asesh.egg-info/not-zip-safe
+src/asesh.egg-info/requires.txt
+src/asesh.egg-info/top_level.txt
